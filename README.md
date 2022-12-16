@@ -5,3 +5,7 @@ El último objetivo es realizar una interfaz que permita al usuario poder intera
 
 
 ![Screenshot](https://github.com/Solcito25/Snowboard-VR/blob/main/Vista%20aerea.png)
+
+
+https://user-images.githubusercontent.com/51237026/208123820-fe1daf9b-d397-4532-83f2-b687eee64332.mp4
+
